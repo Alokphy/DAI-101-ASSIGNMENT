@@ -39,13 +39,6 @@ To execute the analysis, install the required libraries:
 pip install pandas seaborn matplotlib scikit-learn
 ```
 
-## How to Run the Script
-1. Ensure all dependencies are installed.
-2. Run the Python script `iris_analysis.py` using:
-```
-python iris_analysis.py
-```
-3. View the generated plots and summary statistics.
 
 ## Author
 **ALOK KUMAR (23123003)** 
