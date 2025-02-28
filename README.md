@@ -44,6 +44,5 @@ pip install pandas seaborn matplotlib scikit-learn
 **ALOK KUMAR (23123003)** 
 This analysis was conducted as part of an exploratory data analysis project for academic purposes.
 
-## License
-This project is open-source and available for use under the MIT License.
+
 
